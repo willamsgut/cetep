@@ -1,3 +1,10 @@
-<?php 
+<?php
+  //Comentário em Uma Linha
+  
+  /*
+  Comentário
+  Várias Linhas
+  */
+  
   echo"Olá Mundo";
->?
+?>
